@@ -10,3 +10,6 @@ Collection of knowledge and links to important informations to users and maintai
 
 - <https://github.com/dreamora/agents-claude-code>
 - <https://github.com/dreamora/claude-code-subagents>
+
+## Skills
+- <https://github.com/VoltAgent/awesome-openclaw-skills/tree/main>
