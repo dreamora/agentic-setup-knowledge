@@ -1,6 +1,8 @@
 # Knowledge and resources on agentic setups
 Collection of knowledge and links to important informations to users and maintainers of agentic workflows.
 
+## Opencode
+- <https://github.com/sdeanda99/Skills_builder>
 
 ## Plugins and Capabilities for Agentic Harnesses 
 
@@ -13,3 +15,8 @@ Collection of knowledge and links to important informations to users and maintai
 
 ## Skills
 - <https://github.com/VoltAgent/awesome-openclaw-skills/tree/main>
+
+
+## Learning
+- <https://github.com/dreamora/everything-claude-code>
+
