@@ -14,6 +14,7 @@ Collection of knowledge and links to important informations to users and maintai
 - <https://github.com/dreamora/claude-code-subagents>
 
 ## Skills
+- <https://github.com/malhashemi/opencode-skills>
 - <https://github.com/VoltAgent/awesome-openclaw-skills/tree/main>
 
 
