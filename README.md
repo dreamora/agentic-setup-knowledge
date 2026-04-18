@@ -16,6 +16,7 @@ Collection of knowledge and links to important informations to users and maintai
 ## Skills
 - <https://github.com/malhashemi/opencode-skills>
 - <https://github.com/VoltAgent/awesome-openclaw-skills/tree/main>
+- <https://github.com/addyosmani/agent-skills>
 
 
 ## Learning
