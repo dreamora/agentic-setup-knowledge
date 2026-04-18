@@ -17,6 +17,7 @@ Collection of knowledge and links to important informations to users and maintai
 - <https://github.com/malhashemi/opencode-skills>
 - <https://github.com/VoltAgent/awesome-openclaw-skills/tree/main>
 - <https://github.com/addyosmani/agent-skills>
+- [Obsidian Skills](https://github.com/kepano/obsidian-skills)
 
 
 ## Learning
