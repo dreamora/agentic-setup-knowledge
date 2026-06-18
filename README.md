@@ -3,13 +3,13 @@ Collection of knowledge and links to important informations to users and maintai
 
 ## Opencode
 - <https://github.com/sdeanda99/Skills_builder>
+- <https://github.com/awesome-opencode/awesome-opencode> - Collection of Opencode Plugins and setups
 
 ## Plugins and Capabilities for Agentic Harnesses 
 
 - <https://github.com/obra/superpowers>
 
 ## Agent & Subagent definitions for OpenCode and Claude code
-
 - <https://github.com/dreamora/agents-claude-code>
 - <https://github.com/dreamora/claude-code-subagents>
 
