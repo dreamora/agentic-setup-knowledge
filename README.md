@@ -5,6 +5,14 @@ Collection of knowledge and links to important informations to users and maintai
 - <https://github.com/sdeanda99/Skills_builder>
 - <https://github.com/awesome-opencode/awesome-opencode> - Collection of Opencode Plugins and setups
 
+## Agent Harness Stacks
+
+- <https://github.com/code-yeongyu/oh-my-openagent>
+- <https://github.com/EveryInc/compound-engineering-plugin>
+- <https://github.com/open-gsd/gsd-core>
+- <https://github.com/garrytan/gstack>
+- <https://github.com/obra/Superpowers>
+
 ## Plugins and Capabilities for Agentic Harnesses 
 
 - <https://github.com/obra/superpowers>
