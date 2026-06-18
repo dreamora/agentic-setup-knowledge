@@ -24,7 +24,7 @@ https://github.com/tickernelz/opencode-mem
 
 ## Plugins and Capabilities for Agentic Harnesses 
 
-- <https://github.com/obra/superpowers>
+- <https://context7.com/>
 
 ## Agent & Subagent definitions for OpenCode and Claude code
 - <https://github.com/dreamora/agents-claude-code>
