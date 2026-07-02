@@ -47,3 +47,4 @@ Collection of knowledge and links to important informations to users and maintai
 
 ## Learning
 - <https://github.com/dreamora/everything-claude-code>
+- <https://github.com/ai-boost/awesome-prompts>
