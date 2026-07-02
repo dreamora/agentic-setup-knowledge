@@ -38,6 +38,7 @@ Collection of knowledge and links to important informations to users and maintai
 - <https://github.com/dreamora/claude-code-subagents>
 
 ## Skills
+- [ADHD Skill - Enable more focused task completion](https://github.com/uditakhourii/adhd)
 - <https://github.com/malhashemi/opencode-skills>
 - <https://github.com/VoltAgent/awesome-openclaw-skills>
 - <https://github.com/addyosmani/agent-skills>
