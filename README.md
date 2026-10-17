@@ -43,6 +43,10 @@ Collection of knowledge and links to important informations to users and maintai
 - <https://github.com/VoltAgent/awesome-openclaw-skills>
 - <https://github.com/addyosmani/agent-skills>
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills)
+- <https://github.com/aegntic/video-shotcraft>
+- <https://github.com/ayghri/i-have-adhd>
+- <https://github.com/nateherkai/AIS-OS>
+- <https://github.com/nateherkai/roast-room>
 
 
 ## Learning
