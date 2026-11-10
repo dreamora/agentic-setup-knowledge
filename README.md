@@ -48,6 +48,9 @@ Collection of knowledge and links to important informations to users and maintai
 - <https://github.com/nateherkai/AIS-OS>
 - <https://github.com/nateherkai/roast-room>
 - <https://github.com/sttts/skills>
+- <https://github.com/warpdotdev/common-skills>
+- <https://github.com/mattpocock/skills>
+- <https://github.com/humanlayer/skills>
 
 
 ## Learning
